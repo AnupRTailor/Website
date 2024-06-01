@@ -80,7 +80,7 @@ body {
   bottom: 3.5cm;
   left: 60%;
   right: -100%;
-  border-radius: 40%;
+  border-radius: 8px;
   height : 68%;
 }
 .home-content h1 {
@@ -147,9 +147,10 @@ body {
 }
 .about-img img{
   padding-bottom: 20%;
-  max-width: 550px;
-  height: auto;
-  margin-top: 5%;
+  max-width: 400px;
+  height: 68%;
+  margin-top: 10%;
+  margin-left: 100px;
   width: 75%;
   border-radius: 8px;
 }
